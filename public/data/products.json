@@ -1,0 +1,49 @@
+[   {
+        "id":1,
+        "name":"Dragón de cenizas",
+        "description": "Muñeco 3D print de dragón color cenizas",
+        "price": 25000,
+        "image": "/img/munecos/dragon_1.webp",
+        "category": "grande"
+    },
+    {
+        "id":2,
+        "name":"Dragón del pantano",
+        "description": "Muñeco 3D print de dragón color verde claro",
+        "price": 23000,
+        "image": "/img/munecos/dragon_2.jpg",
+        "category": "grande"
+    },
+    {
+        "id":3,
+        "name":"Dragón rojo cría",
+        "description": "Muñeco 3D print de dragón cría color rojo",
+        "price": 18000,
+        "image": "/img/munecos/dragon_3.webp",
+        "category": "cria"
+    },
+    {
+        "id":4,
+        "name":"Dragón azul cría",
+        "description": "Muñeco 3D print de dragón cría color azul",
+        "price": 18000,
+        "image": "/img/munecos/dragon_4.jpg",
+        "category": "cria"
+    },
+    {
+        "id":5,
+        "name":"Dragón de bronce",
+        "description": "Muñeco 3D print de dragón color bronce",
+        "price": 28000,
+        "image": "/img/munecos/dragon_5.jpg",
+        "category": "grande"
+    },
+    {
+        "id":6,
+        "name":"Dragón de la pradera",
+        "description": "Muñeco 3D print de dragón color verde",
+        "price": 26000,
+        "image": "/img/munecos/dragon_6.jpg",
+        "category": "grande"
+    }
+]
